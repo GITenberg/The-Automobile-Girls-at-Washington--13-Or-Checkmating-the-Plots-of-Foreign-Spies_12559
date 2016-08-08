@@ -1,0 +1,26 @@
+_repo: The-Automobile-Girls-at-Washington--13-Or-Checkmating-the-Plots-of-Foreign-Spies_12559
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crane, Laura Dent
+    gutenberg_agent_id: '4425'
+    url: http://www.gutenberg.org/2009/agents/4425
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spies -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Automobile travel -- Juvenile fiction'
+- !lcsh 'Washington (D.C.) -- Juvenile fiction'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- GITenberg
+title: The Automobile Girls at Washington; Or, Checkmating the Plots of Foreign Spies
+url: http://www.gutenberg.org/ebooks/12559
