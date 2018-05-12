@@ -1,11 +1,16 @@
 _repo: The-Automobile-Girls-at-Washington--13-Or-Checkmating-the-Plots-of-Foreign-Spies_12559
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Crane, Laura Dent
     gutenberg_agent_id: '4425'
     url: http://www.gutenberg.org/2009/agents/4425
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12559#The-Automobile-Girls-at-Washington--13-Or-Checkmating-the-Plots-of-Foreign-Spies
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
